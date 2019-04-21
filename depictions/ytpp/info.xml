@@ -1,0 +1,23 @@
+<package>
+	<id>com.DDOSME.ytpp</id>
+	<name>ytpp</name>
+	<version>1.4r-91</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an old package. Requires iOS 7 and above..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
